@@ -225,3 +225,8 @@ Oct 25 11:36:22: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrisma
 Oct 25 11:36:22: ocsipersist:dbm: ...Initialization complete
 Oct 25 11:36:22: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
 Oct 25 11:36:22: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 11:47:53: ocsipersist:dbm: Initializing ...
+Oct 25 11:47:54: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 11:47:54: ocsipersist:dbm: ...Initialization complete
+Oct 25 11:47:54: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 11:47:54: ocsigen:main: Ocsigen has been launched (initialisations ok)
