@@ -1,0 +1,4 @@
+_server/hack2020.cmo :
+_server/hack2020.cmx :
+_server/hack2020.cmo : _server/hack2020.type_mli
+_server/hack2020.cmx : _server/hack2020.type_mli

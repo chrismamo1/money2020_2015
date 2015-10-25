@@ -1,0 +1,222 @@
+Oct 25 00:53:07: ocsigen:main: Command pipe created
+Oct 25 00:53:08: ocsipersist:dbm: Initializing ...
+Oct 25 00:53:08: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 00:53:08: ocsipersist:dbm: ...Initialization complete
+Oct 25 00:53:08: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 00:53:08: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 01:19:36: ocsipersist:dbm: Initializing ...
+Oct 25 01:19:37: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 01:19:37: ocsipersist:dbm: ...Initialization complete
+Oct 25 01:19:37: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 01:19:37: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 01:21:35: ocsipersist:dbm: Initializing ...
+Oct 25 01:21:36: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 01:21:36: ocsipersist:dbm: ...Initialization complete
+Oct 25 01:21:36: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 01:21:36: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 01:21:38: ocsigen:main: Exn during page generation (sending 500): Nethttp_client.Http_error(500,"<?xml version='1.0' encoding='UTF-8'?><errorMessage xmlns=\"http://www.ebay.com/marketplace/search/v1/services\"><error><errorId>2000</errorId><domain>CoreRuntime</domain><severity>Error</severity><category>Request</category><message>Service operation  is unknown</message><subdomain>Inbound_Meta_Data</subdomain><parameter name=\"Param1\"></parameter></error></errorMessage>")
+Oct 25 01:21:43: ocsigen:main: Exn during page generation (sending 500): Nethttp_client.Http_error(500,"<?xml version='1.0' encoding='UTF-8'?><errorMessage xmlns=\"http://www.ebay.com/marketplace/search/v1/services\"><error><errorId>2000</errorId><domain>CoreRuntime</domain><severity>Error</severity><category>Request</category><message>Service operation  is unknown</message><subdomain>Inbound_Meta_Data</subdomain><parameter name=\"Param1\"></parameter></error></errorMessage>")
+Oct 25 01:21:45: ocsigen:main: Exn during page generation (sending 500): Nethttp_client.Http_error(500,"<?xml version='1.0' encoding='UTF-8'?><errorMessage xmlns=\"http://www.ebay.com/marketplace/search/v1/services\"><error><errorId>2000</errorId><domain>CoreRuntime</domain><severity>Error</severity><category>Request</category><message>Service operation  is unknown</message><subdomain>Inbound_Meta_Data</subdomain><parameter name=\"Param1\"></parameter></error></errorMessage>")
+Oct 25 01:24:55: ocsipersist:dbm: Initializing ...
+Oct 25 01:24:56: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 01:24:56: ocsipersist:dbm: ...Initialization complete
+Oct 25 01:24:56: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 01:24:56: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 01:24:59: ocsigen:main: Exn during page generation (sending 500): Nethttp_client.Http_error(500,"<?xml version='1.0' encoding='UTF-8'?><errorMessage xmlns=\"http://www.ebay.com/marketplace/search/v1/services\"><error><errorId>11002</errorId><domain>Security</domain><severity>Error</severity><category>System</category><message>Authentication failed : Missing required credential for authn method</message><subdomain>Authentication</subdomain><parameter name=\"Param1\">Missing required credential for authn method</parameter></error></errorMessage>")
+Oct 25 01:27:39: ocsipersist:dbm: Initializing ...
+Oct 25 01:27:40: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 01:27:40: ocsipersist:dbm: ...Initialization complete
+Oct 25 01:27:40: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 01:27:40: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 01:27:48: ocsigen:main: Exn during page generation (sending 500): Nethttp_client.Http_error(500,"<?xml version='1.0' encoding='UTF-8'?><errorMessage xmlns=\"http://www.ebay.com/marketplace/search/v1/services\"><error><errorId>11002</errorId><domain>Security</domain><severity>Error</severity><category>System</category><message>Authentication failed : Missing required credential for authn method</message><subdomain>Authentication</subdomain><parameter name=\"Param1\">Missing required credential for authn method</parameter></error></errorMessage>")
+Oct 25 01:29:15: ocsipersist:dbm: Initializing ...
+Oct 25 01:29:17: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 01:29:17: ocsipersist:dbm: ...Initialization complete
+Oct 25 01:29:17: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 01:29:17: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 01:29:20: ocsigen:main: Exn during page generation (sending 500): Nethttp_client.Http_error(500,"<?xml version='1.0' encoding='UTF-8'?><errorMessage xmlns=\"http://www.ebay.com/marketplace/search/v1/services\"><error><errorId>11002</errorId><domain>Security</domain><severity>Error</severity><category>System</category><message>Authentication failed : Missing required credential for authn method</message><subdomain>Authentication</subdomain><parameter name=\"Param1\">Missing required credential for authn method</parameter></error></errorMessage>")
+Oct 25 01:32:55: ocsipersist:dbm: Initializing ...
+Oct 25 01:32:56: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 01:32:56: ocsipersist:dbm: ...Initialization complete
+Oct 25 01:32:56: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 01:32:56: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 01:32:59: ocsigen:main: Exn during page generation (sending 500): Nethttp_client.Http_error(500,"<?xml version='1.0' encoding='UTF-8'?><errorMessage xmlns=\"http://www.ebay.com/marketplace/search/v1/services\"><error><errorId>11002</errorId><domain>Security</domain><severity>Error</severity><category>System</category><message>Authentication failed : Missing required credential for authn method</message><subdomain>Authentication</subdomain><parameter name=\"Param1\">Missing required credential for authn method</parameter></error></errorMessage>")
+Oct 25 01:33:22: ocsigen:main: Exn during page generation (sending 500): Nethttp_client.Http_error(500,"<?xml version='1.0' encoding='UTF-8'?><errorMessage xmlns=\"http://www.ebay.com/marketplace/search/v1/services\"><error><errorId>11002</errorId><domain>Security</domain><severity>Error</severity><category>System</category><message>Authentication failed : Missing required credential for authn method</message><subdomain>Authentication</subdomain><parameter name=\"Param1\">Missing required credential for authn method</parameter></error></errorMessage>")
+Oct 25 01:35:03: ocsipersist:dbm: Initializing ...
+Oct 25 01:35:04: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 01:35:04: ocsipersist:dbm: ...Initialization complete
+Oct 25 01:35:04: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 01:35:04: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 01:35:08: ocsigen:main: Exn during page generation (sending 500): Nethttp_client.Http_error(500,"<?xml version='1.0' encoding='UTF-8'?><errorMessage xmlns=\"http://www.ebay.com/marketplace/search/v1/services\"><error><errorId>11002</errorId><domain>Security</domain><severity>Error</severity><category>System</category><message>Authentication failed : Missing required credential for authn method</message><subdomain>Authentication</subdomain><parameter name=\"Param1\">Missing required credential for authn method</parameter></error></errorMessage>")
+Oct 25 01:36:32: ocsipersist:dbm: Initializing ...
+Oct 25 01:36:33: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 01:36:33: ocsipersist:dbm: ...Initialization complete
+Oct 25 01:36:33: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 01:36:33: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 01:36:36: ocsigen:main: Exn during page generation (sending 500): Nethttp_client.Http_error(500,"<?xml version='1.0' encoding='UTF-8'?><errorMessage xmlns=\"http://www.ebay.com/marketplace/search/v1/services\"><error><errorId>11002</errorId><domain>Security</domain><severity>Error</severity><category>System</category><message>Authentication failed : Missing required credential for authn method</message><subdomain>Authentication</subdomain><parameter name=\"Param1\">Missing required credential for authn method</parameter></error></errorMessage>")
+Oct 25 01:36:47: ocsigen:main: Exn during page generation (sending 500): Nethttp_client.Http_error(500,"<?xml version='1.0' encoding='UTF-8'?><errorMessage xmlns=\"http://www.ebay.com/marketplace/search/v1/services\"><error><errorId>11002</errorId><domain>Security</domain><severity>Error</severity><category>System</category><message>Authentication failed : Missing required credential for authn method</message><subdomain>Authentication</subdomain><parameter name=\"Param1\">Missing required credential for authn method</parameter></error></errorMessage>")
+Oct 25 01:38:18: ocsipersist:dbm: Initializing ...
+Oct 25 01:38:19: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 01:38:19: ocsipersist:dbm: ...Initialization complete
+Oct 25 01:38:19: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 01:38:19: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 01:38:21: ocsigen:main: Exn during page generation (sending 500): Nethttp_client.Http_error(500,"<?xml version='1.0' encoding='UTF-8'?><errorMessage xmlns=\"http://www.ebay.com/marketplace/search/v1/services\"><error><errorId>11002</errorId><domain>Security</domain><severity>Error</severity><category>System</category><message>Authentication failed : Missing required credential for authn method</message><subdomain>Authentication</subdomain><parameter name=\"Param1\">Missing required credential for authn method</parameter></error></errorMessage>")
+Oct 25 01:40:30: ocsipersist:dbm: Initializing ...
+Oct 25 01:40:31: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 01:40:31: ocsipersist:dbm: ...Initialization complete
+Oct 25 01:40:31: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 01:40:31: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 01:40:36: ocsigen:main: Exn during page generation (sending 500): Nethttp_client.Http_error(500,"<?xml version='1.0' encoding='UTF-8'?><errorMessage xmlns=\"http://www.ebay.com/marketplace/search/v1/services\"><error><errorId>11002</errorId><domain>Security</domain><severity>Error</severity><category>System</category><message>Authentication failed : Missing required credential for authn method</message><subdomain>Authentication</subdomain><parameter name=\"Param1\">Missing required credential for authn method</parameter></error></errorMessage>")
+Oct 25 05:33:57: ocsigen:main: Exn during page generation (sending 500): Nethttp_client.Http_error(500,"<?xml version='1.0' encoding='UTF-8'?><errorMessage xmlns=\"http://www.ebay.com/marketplace/search/v1/services\"><error><errorId>11002</errorId><domain>Security</domain><severity>Error</severity><category>System</category><message>Authentication failed : Missing required credential for authn method</message><subdomain>Authentication</subdomain><parameter name=\"Param1\">Missing required credential for authn method</parameter></error></errorMessage>")
+Oct 25 05:41:22: ocsipersist:dbm: Initializing ...
+Oct 25 05:41:23: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 05:41:23: ocsipersist:dbm: ...Initialization complete
+Oct 25 05:41:23: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 05:41:23: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 05:55:45: ocsipersist:dbm: Initializing ...
+Oct 25 05:55:47: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 05:55:47: ocsipersist:dbm: ...Initialization complete
+Oct 25 05:55:47: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 05:55:47: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 06:15:38: ocsipersist:dbm: Initializing ...
+Oct 25 06:15:39: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 06:15:39: ocsipersist:dbm: ...Initialization complete
+Oct 25 06:15:39: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 06:15:39: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 06:15:47: ocsigen:main: Exn during page generation (sending 500): Xmlm.Make(String)(Buffer).Error(_, -764030554)
+Oct 25 06:16:18: ocsipersist:dbm: Initializing ...
+Oct 25 06:16:28: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 06:16:28: ocsipersist:dbm: ...Initialization complete
+Oct 25 06:16:28: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 06:16:28: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 06:22:01: ocsipersist:dbm: Initializing ...
+Oct 25 06:22:02: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 06:22:02: ocsipersist:dbm: ...Initialization complete
+Oct 25 06:22:02: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 06:22:02: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 06:22:32: ocsipersist:dbm: Initializing ...
+Oct 25 06:22:33: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 06:22:33: ocsipersist:dbm: ...Initialization complete
+Oct 25 06:22:33: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 06:22:33: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 07:25:30: ocsipersist:dbm: Initializing ...
+Oct 25 07:25:31: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 07:25:31: ocsipersist:dbm: ...Initialization complete
+Oct 25 07:25:31: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 07:25:31: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 09:48:04: ocsipersist:dbm: Initializing ...
+Oct 25 09:48:05: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 09:48:05: ocsipersist:dbm: ...Initialization complete
+Oct 25 09:48:05: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 09:48:05: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 09:49:31: ocsipersist:dbm: Initializing ...
+Oct 25 09:49:33: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 09:49:33: ocsipersist:dbm: ...Initialization complete
+Oct 25 09:49:33: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 09:49:33: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 09:49:41: ocsigen:main: Exn during page generation (sending 500): Failure("int_of_string")
+Oct 25 09:49:57: ocsigen:main: Exn during page generation (sending 500): Failure("int_of_string")
+Oct 25 09:50:04: ocsigen:main: Exn during page generation (sending 500): Failure("int_of_string")
+Oct 25 09:51:38: ocsipersist:dbm: Initializing ...
+Oct 25 09:51:39: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 09:51:39: ocsipersist:dbm: ...Initialization complete
+Oct 25 09:51:39: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 09:51:39: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 09:51:44: ocsigen:main: Exn during page generation (sending 500): Failure("int_of_string")
+Oct 25 09:52:07: ocsipersist:dbm: Initializing ...
+Oct 25 09:52:08: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 09:52:08: ocsipersist:dbm: ...Initialization complete
+Oct 25 09:52:08: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 09:52:08: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 09:52:37: ocsipersist:dbm: Initializing ...
+Oct 25 09:52:39: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 09:52:39: ocsipersist:dbm: ...Initialization complete
+Oct 25 09:52:39: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 09:52:39: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 09:53:11: ocsipersist:dbm: Initializing ...
+Oct 25 09:53:13: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 09:53:13: ocsipersist:dbm: ...Initialization complete
+Oct 25 09:53:13: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 09:53:13: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 09:53:14: ocsigen:main: Exn during page generation (sending 500): Re_emacs.Parse_error
+Oct 25 09:53:20: ocsigen:main: Exn during page generation (sending 500): Re_emacs.Parse_error
+Oct 25 09:53:53: ocsipersist:dbm: Initializing ...
+Oct 25 09:53:55: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 09:53:55: ocsipersist:dbm: ...Initialization complete
+Oct 25 09:53:55: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 09:53:55: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 09:54:47: ocsipersist:dbm: Initializing ...
+Oct 25 09:54:48: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 09:54:48: ocsipersist:dbm: ...Initialization complete
+Oct 25 09:54:48: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 09:54:48: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 09:59:53: ocsipersist:dbm: Initializing ...
+Oct 25 09:59:54: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 09:59:54: ocsipersist:dbm: ...Initialization complete
+Oct 25 09:59:54: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 09:59:54: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 10:00:20: ocsipersist:dbm: Initializing ...
+Oct 25 10:00:21: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 10:00:21: ocsipersist:dbm: ...Initialization complete
+Oct 25 10:00:21: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 10:00:21: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 10:31:22: ocsipersist:dbm: Initializing ...
+Oct 25 10:31:23: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 10:31:23: ocsipersist:dbm: ...Initialization complete
+Oct 25 10:31:23: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 10:31:23: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 10:31:54: ocsipersist:dbm: Initializing ...
+Oct 25 10:31:55: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 10:31:55: ocsipersist:dbm: ...Initialization complete
+Oct 25 10:31:55: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 10:31:55: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 10:36:01: ocsipersist:dbm: Initializing ...
+Oct 25 10:36:02: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 10:36:02: ocsipersist:dbm: ...Initialization complete
+Oct 25 10:36:02: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 10:36:02: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 10:36:27: ocsipersist:dbm: Initializing ...
+Oct 25 10:36:28: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 10:36:28: ocsipersist:dbm: ...Initialization complete
+Oct 25 10:36:28: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 10:36:28: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 10:40:20: ocsipersist:dbm: Initializing ...
+Oct 25 10:40:22: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 10:40:22: ocsipersist:dbm: ...Initialization complete
+Oct 25 10:40:22: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 10:40:22: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 10:53:22: ocsipersist:dbm: Initializing ...
+Oct 25 10:53:23: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 10:53:23: ocsipersist:dbm: ...Initialization complete
+Oct 25 10:53:23: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 10:53:23: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 10:55:45: ocsipersist:dbm: Initializing ...
+Oct 25 10:55:47: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 10:55:47: ocsipersist:dbm: ...Initialization complete
+Oct 25 10:55:47: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 10:55:47: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 10:56:35: ocsipersist:dbm: Initializing ...
+Oct 25 10:56:36: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 10:56:36: ocsipersist:dbm: ...Initialization complete
+Oct 25 10:56:36: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 10:56:36: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 10:58:30: ocsipersist:dbm: Initializing ...
+Oct 25 10:58:31: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 10:58:31: ocsipersist:dbm: ...Initialization complete
+Oct 25 10:58:31: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 10:58:31: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 11:01:19: ocsipersist:dbm: Initializing ...
+Oct 25 11:01:20: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 11:01:20: ocsipersist:dbm: ...Initialization complete
+Oct 25 11:01:20: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 11:01:20: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 11:02:41: ocsipersist:dbm: Initializing ...
+Oct 25 11:02:42: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 11:02:42: ocsipersist:dbm: ...Initialization complete
+Oct 25 11:02:42: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 11:02:42: ocsigen:main: Ocsigen has been launched (initialisations ok)
+Oct 25 11:03:10: ocsipersist:dbm: Initializing ...
+Oct 25 11:03:11: ocsipersist:dbm: Launching a new Ocsidbm process: /home/chrismamo1/.opam/4.02.3/lib/ocsigenserver/extensions/ocsidbm on directory local/var/data/hack2020/ocsipersist.
+Oct 25 11:03:11: ocsipersist:dbm: ...Initialization complete
+Oct 25 11:03:11: ocsigen:config: While parsing config file, tag <host>: No defaulthostname, assuming it is "Glyphis-Fowlerae"
+Oct 25 11:03:11: ocsigen:main: Ocsigen has been launched (initialisations ok)

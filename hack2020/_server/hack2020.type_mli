@@ -1,0 +1,13 @@
+val __eliom__compilation_unit_id__951100558 : unit
+type perkele = { location : string; category_name : string; title : string; }
+module Hack2020_app : Eliom_registration.ELIOM_APPL
+val main_service :
+  (string, unit, [< Eliom_service.service_method > `Get ],
+   [< Eliom_service.attached > `Attached ],
+   [< Eliom_service.service_kind > `Service ], [ `WithoutSuffix ],
+   [ `One of string ] Eliom_parameter.param_name, unit,
+   [< Eliom_service.registrable > `Registrable ],
+   [> Eliom_service.appl_service ])
+  Eliom_service.service
+val nvget : Humane_re.Str.str -> string -> string
+val parse_nv : Humane_re.Str.str -> perkele array
