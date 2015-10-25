@@ -29,7 +29,7 @@ let parse_nv str =
   let os = open_out "test.out" in
   let n =
     nvget str "searchResult(.*).@count"
-    |> Str.(find_matches (regexp "[0-9]+"))
+    |> Str.(find_matches (regexp "\\([0-9]+\\)"))
     |> List.hd
     |> int_of_string in
   let rval = Array.make n { location= ""; title = ""; category_name = ""; } in
@@ -61,7 +61,7 @@ let () =
         |> Array.to_list
         |> List.map (fun i -> "<li>" ^ i.category_name ^ i.location ^ i.title ^ "</li>")
       in
-      Lwt.return ("<ul>" ^ (List.fold_left (^) "" ("fuuuuck" :: items)) ^ "</ul>")
+      Lwt.return ("<ul>" ^ (List.fold_left (^) "" items) ^ "</ul>")
         (*Eliom_tools.F.html
            ~title:"hack2020"
            ~css:[["css";"hack2020.css"]]
